@@ -14,6 +14,7 @@ Se XP for entre 9.001 e 10.000 = Imortal
 ========================================================
 */
 
+
 let nomeHeroi = "SuperMan";
 let xpHeroi = 1999;
 
@@ -43,5 +44,6 @@ if (xpHeroi < 1000) {
 } else if (xpHeroi >= 10001) {
     nivelHeroi = "Radiante";
 }
+
 console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi}`);
 
